@@ -2,7 +2,7 @@
 name = "garagem"
 version = "0.1.0"
 description = ""
-authors = ["yasmin"]
+authors = ["Yasmin"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
